@@ -1,0 +1,12 @@
+{
+  "name": "musement_homework",
+  "version": "0.0.1",
+  "description": "Musement | Backend tech homework",
+  "main": "index.js",
+  "repository": "git@github.com:danieledraganti/musement_homework.git",
+  "author": "Daniele Draganti <danidra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
